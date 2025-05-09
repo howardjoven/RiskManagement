@@ -23,7 +23,7 @@
 						"_Name": "SectionHeader_RiskManagementService",
 						"AccessoryType": "None",
 						"UseTopPadding": true,
-						"Caption": "Risk Management Service"
+						"Caption": "RiskManagementService"
 					},
 					"Visible": true,
 					"EmptySection": {
@@ -66,7 +66,7 @@
 		}
 	],
 	"_Type": "Page",
-	"_Name": "RiskManagement",
+	"_Name": "Main",
 	"ActionBar": {
 		"Items": [
 			{
